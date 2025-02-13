@@ -18,7 +18,7 @@ Langchain serves as the backbone of this project, providing a framework for buil
 <img src="images/flow.png" width="1000" height="450">
 
 Demistifying the workflow:
-The agent uses the Langchain ReACT approach which combines both reasoning and acting. The LLM finds the best approach by observing results and accordingly acts in the way of using tool i.e. PythonREPL Tool for this case.
+The agent uses the Langchain **ReACT** approach which combines both reasoning and acting. The LLM finds the best approach by observing results and accordingly acts in the way of using tool i.e. PythonREPL Tool for this case.
 
 ## 🔮 Accessing the Streamlit App
 <img src="images/streamlit img.png" width="900" height="600">
